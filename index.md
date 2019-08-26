@@ -1,3 +1,13 @@
+# DeVon Young Herr's First CS193 Homework
+
+## Some of my favorite things about CS 19300
+
+- We get to learn terminal!
+- We get to learn Vim!
+- We get to learn GitHub!
+- We get to learn shell related things!
+- We get to learn LaTeX!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
